@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Science Undergraduate | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Project+Builder;Data+Science+Student&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student&center=true&width=600&height=45">
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ## 👩‍💻 About Me  
 
 💡 Data Science student skilled in **Python, Machine Learning & Data Analysis**  
-🔬 Building **real-world AI solutions** in agriculture & finance  
-📍 Roorkee, Uttarakhand  
+🔬 Building **real-world AI solutions** 
 
 ---
 
@@ -73,7 +72,7 @@ Fraud detection system
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html5,flask,node.js,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,HTML5,flask,Node.js,git,github" />
 <br>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
 </p>
@@ -97,13 +96,10 @@ Fraud detection system
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Achievements  
 
 ✔ Smart India Hackathon – Internal Round  
-✔ National Level Hackathon Participant  
-✔ NPTEL (IIT Madras) – Python for Data Science  
-✔ IBM – Machine Learning & Data Visualization  
-✔ TATA – GenAI Simulation    
+✔ National Level Hackathon Participant     
 
 ---
 
