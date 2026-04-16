@@ -57,9 +57,20 @@ Fraud detection system
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,flask,git,github" />
-<br>
+  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,react,flask,git,github" />
+<br><br>
+
 <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
+  
+</p>
+
+<p align="center">
+<b>
+Python | C++ | JavaScript | Node.js | React | Flask | Git | GitHub  
+<br>
+NumPy | Pandas | TensorFlow | Scikit-learn  
+</b>
 </p>
 
 ---
