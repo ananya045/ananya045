@@ -72,7 +72,7 @@ Fraud detection system
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,HTML5,flask,Node.js,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,flask,git,github" />
 <br>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
 </p>
