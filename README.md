@@ -27,21 +27,6 @@
 
 ---
 
-## 💼 Experience  
-
-🔹 **Google AI-ML Virtual Intern (AICTE - EduSkills)**  
-• Built TensorFlow/TFLite models (20% efficiency boost)  
-• Deployed real-time computer vision system  
-
-🔹 **AI & ML Intern – Edunet Foundation**  
-• Developed Gemini LLM-based study assistant  
-• Improved output efficiency by 30%  
-
-🔹 **Data Science Intern – CertED Technologies**  
-• Analyzed 10,000+ records  
-• Built ML models & visualizations  
-
----
 
 ## 🚀 Projects  
 
