@@ -35,15 +35,14 @@
 <td width="33%">
 
 ### 🌾 Crop Price Prediction  
-Random Forest & Boosting models  
-Agricultural decision system  
+Random Forest & Boosting models    
 
 </td>
 
 <td width="33%">
 
 ### 💳 Anomaly Detection  
-DBSCAN clustering  
+DBSCAN clustering based
 Fraud detection system  
 
 </td>
@@ -56,22 +55,67 @@ Fraud detection system
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,react,flask,git,github" />
-<br><br>
+<table align="center">
+<tr>
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
-  
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
 
-<p align="center">
-<b>
-Python | C++ | JavaScript | Node.js | React | Flask | Git | GitHub  
-<br>
-NumPy | Pandas | TensorFlow | Scikit-learn  
-</b>
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40"/><br>Scikit-learn
+</td>
+
+</tr>
+</table>
 
 ---
 
