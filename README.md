@@ -1,11 +1,139 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ananya</h1><br><h3 align="center">🚀 Data Science Undergraduate | AI & ML Enthusiast</h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;Data+Science+Student;AI+Project+Builder;GATE+2026+AI+Prep&center=true&width=600&height=45"><br></p><br><br>---<br><br>## 🧠 About Me  <br>🎓 B.Tech CSE (Data Science) | Haridwar University (CGPA: 8.5)  <br>💡 Passionate about **Machine Learning, Data Analysis & AI Applications**  <br>🔍 Experienced in **building predictive models & real-world ML solutions**  <br>🏆 Internships with **Google AI-ML (EduSkills), Edunet Foundation, CertED**  <br><br>---<br><br>## 🚀 Experience Highlights  <br><br>🔹 **Google AI-ML Virtual Intern (AICTE - EduSkills)**  <br>- Built **image classification & object detection models (TensorFlow/TFLite)**  <br>- Improved prediction efficiency by **20%**  <br>- Deployed **real-time on-device computer vision system**  <br><br>🔹 **AI & ML Intern – Edunet Foundation**  <br>- Developed **AI-powered study assistant using Gemini LLM**  <br>- Improved content generation efficiency by **30%**  <br>- Designed optimized **end-to-end ML pipeline**  <br><br>🔹 **Data Science Intern – CertED Technologies**  <br>- Analyzed **10,000+ records dataset** for insights  <br>- Built ML models & visualized trends using **Matplotlib**  <br><br>---<br><br>## 🛠️ Tech Stack  <br><br><p align="center"><br><br><img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github" /><br><br><br><img src="https://skillicons.dev/icons?i=numpy,pandas" /><br><br></p><br><br>**Core Skills:**  <br>Machine Learning • Regression • Classification • Clustering • Feature Engineering • Model Evaluation  <br><br>---<br><br>## 📊 GitHub Stats  <br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=10" height="165"/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&border_radius=10" height="165"/><br></p><br><br>---<br><br>## 📌 Featured Projects  <br><br>🔹 **🌾 Crop Price Prediction & Yield Optimization**  <br>- Built ML models using **Random Forest & Boosting**  <br>- Used soil, weather & historical data for decision-making  <br><br>🔹 **💳 Financial Transaction Anomaly Detection**  <br>- Implemented **DBSCAN clustering** for fraud detection  <br>- Improved detection using normalization & feature scaling  <br><br>🔹 **🚁 UAV / Drone Detection System** *(Ongoing)*  <br>- TinyML-based system for detecting drones using signal patterns  <br><br>---<br><br>## 🌱 Currently Learning  <br>- Deep Learning & Advanced ML  <br>- Model Deployment (Flask, APIs)  <br>- GATE 2026 (AI & Data Science)  <br><br>---<br><br>## 🏆 Achievements  <br>🏅 Smart India Hackathon (SIH) – Internal Round Qualified  <br>🏅 National Level Hackathon Participant  <br><br>---<br><br>## 📜 Certifications  <br>- Python for Data Science – NPTEL (IIT Madras)  <br>- Machine Learning & Data Visualization – IBM (Coursera)  <br>- GenAI Data Analytics Simulation – TATA (Forage)  <br><br>---<br><br>## 🤝 Connect With Me  <br><br><p align="center"><br>  <a href="https://www.linkedin.com/in/ananya-chaudhary-0bb6992a6/"><br>    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><br>  </a><br>  <a href="mailto:chaudharyananya0403@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><br>  </a><br></p><br><br>---<br><br>## ⚡ Fun Fact  <br>💡 *I don’t just analyze data — I build systems that make decisions from it.*<br><br>---<br><br><p align="center"><br>  ⭐ <b>"Turning data into intelligent solutions."</b><br></p>
+<h1 align="center">Hi 👋, I'm Ananya</h1>
+<h3 align="center">🚀 Data Science Undergraduate | AI & ML Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Project+Builder;Data+Science+Student;GATE+2026+AI+Prep&center=true&width=600&height=45">
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ananya-chaudhary-0bb6992a6/) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 👩‍💻 About Me  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 Data Science student skilled in **Python, Machine Learning & Data Analysis**  
+🔬 Building **real-world AI solutions** in agriculture & finance  
+📍 Roorkee, Uttarakhand  
+
+---
+
+## 📊 Dashboard  
+
+<table>
+<tr>
+<td align="center">🎓<br><b>CGPA</b><br>8.5/10</td>
+<td align="center">💼<br><b>Internships</b><br>3</td>
+<td align="center">🚀<br><b>Projects</b><br>4+</td>
+<td align="center">🏆<br><b>Achievements</b><br>2+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience  
+
+🔹 **Google AI-ML Virtual Intern (AICTE - EduSkills)**  
+• Built TensorFlow/TFLite models (20% efficiency boost)  
+• Deployed real-time computer vision system  
+
+🔹 **AI & ML Intern – Edunet Foundation**  
+• Developed Gemini LLM-based study assistant  
+• Improved output efficiency by 30%  
+
+🔹 **Data Science Intern – CertED Technologies**  
+• Analyzed 10,000+ records  
+• Built ML models & visualizations  
+
+---
+
+## 🚀 Projects  
+
+<table>
+<tr>
+<td width="33%">
+
+### 🌾 Crop Price Prediction  
+Random Forest & Boosting models  
+Agricultural decision system  
+
+</td>
+
+<td width="33%">
+
+### 💳 Anomaly Detection  
+DBSCAN clustering  
+Fraud detection system  
+
+</td>
+
+<td width="33%">
+
+### 🚁 UAV Detection  
+TinyML-based drone detection  
+(Ongoing project)  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github" />
+<br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya045&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya045&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya045&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications  
+
+✔ Smart India Hackathon – Internal Round  
+✔ National Level Hackathon Participant  
+✔ NPTEL (IIT Madras) – Python for Data Science  
+✔ IBM – Machine Learning & Data Visualization  
+✔ TATA – GenAI Simulation  
+
+---
+
+## 🌱 Currently Learning  
+
+📘 Deep Learning  
+⚙ Model Deployment (Flask, APIs)  
+🎯 GATE 2026 (AI & DS)  
+
+---
+
+## 🤝 Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananya-chaudhary-0bb6992a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:chaudharyananya0403@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+💡 <b>"I don’t just analyze data — I build systems that make decisions."</b>
+</p>
