@@ -64,13 +64,7 @@ Fraud detection system
 
 </td>
 
-<td width="33%">
 
-### 🚁 UAV Detection  
-TinyML-based drone detection  
-(Ongoing project)  
-
-</td>
 </tr>
 </table>
 
@@ -79,7 +73,7 @@ TinyML-based drone detection
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,flask,git,github" />
+<img src="https://skillicons.dev/icons?i=python,c++,js,flask,git,github" />
 <br>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
 </p>
@@ -109,15 +103,7 @@ TinyML-based drone detection
 ✔ National Level Hackathon Participant  
 ✔ NPTEL (IIT Madras) – Python for Data Science  
 ✔ IBM – Machine Learning & Data Visualization  
-✔ TATA – GenAI Simulation  
-
----
-
-## 🌱 Currently Learning  
-
-📘 Deep Learning  
-⚙ Model Deployment (Flask, APIs)  
-🎯 GATE 2026 (AI & DS)  
+✔ TATA – GenAI Simulation    
 
 ---
 
