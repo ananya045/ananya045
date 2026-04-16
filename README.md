@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Science Undergraduate | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Project+Builder;Data+Science+Student;GATE+2026+AI+Prep&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Developer;AI+Project+Builder;Data+Science+Student&center=true&width=600&height=45">
 </p>
 
 ---
@@ -21,7 +21,7 @@
 <tr>
 <td align="center">🎓<br><b>CGPA</b><br>8.5/10</td>
 <td align="center">💼<br><b>Internships</b><br>3</td>
-<td align="center">🚀<br><b>Projects</b><br>4+</td>
+<td align="center">🚀<br><b>Projects</b><br>3+</td>
 <td align="center">🏆<br><b>Achievements</b><br>2+</td>
 </tr>
 </table>
@@ -73,7 +73,7 @@ Fraud detection system
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c++,js,flask,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html5,flask,node.js,git,github" />
 <br>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
 </p>
