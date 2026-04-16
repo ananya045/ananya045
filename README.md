@@ -35,7 +35,8 @@
 <td width="33%">
 
 ### 🌾 Crop Price Prediction  
-Random Forest & Boosting models    
+Using Random Forest model
+Agricultural decision system
 
 </td>
 
